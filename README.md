@@ -58,3 +58,16 @@ CIFAR-10 Website
 CIFAR-10 Dataset on Kaggle
 
 After the above description, i will start by importing the necessary libraries. see code section.
+
+
+ # To open the full project: 
+
+- click on the project file(Abschlusprojekt) to open the project, 
+ 
+- click on the more edit options ie the arrow pointing down beside the raw button.
+ 
+- Under open with, select Github Desktop
+ 
+
+- Select view the file of your repository in Explorer.
+
